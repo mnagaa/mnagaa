@@ -1,4 +1,5 @@
 baseURL: "https://mnagaa.github.io/"
+publishDir: "docs"
 title: mnagaa
 paginate: 5
 theme: PaperMod
@@ -123,6 +124,10 @@ menu:
       name: profile
       url: /profile/
       weight: 1
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
