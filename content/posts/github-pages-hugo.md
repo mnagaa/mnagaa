@@ -11,6 +11,7 @@ Github PagesとHugoでProfileページを作って公開する。
 
 ## 更新方法
 
+`hugo server -D`でローカルでサーバが起動する。
 
 `hugo new post/${pageTitle}.md`で新しいページを作成する。
 そして、マークダウンファイルを更新する。
