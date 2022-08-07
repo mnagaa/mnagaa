@@ -25,6 +25,10 @@ $ git submodule update --init --recursive
 
 config.ymlを更新する。
 
+# 公開方法
+
+`Repository home -> Settings -> Pages` からデプロイ方法にGithub Actionsを指定する。
+`config.yml`のbaseURLの下あたりに、`publishDir: "public"`を追加する。
 
 ## 更新方法
 
@@ -34,7 +38,3 @@ config.ymlを更新する。
 そして、マークダウンファイルを更新する。
 公開したい場合は`draft: false`に変更する。
 
-
-`config.yml`のbaseURLのしたあたりに、`publishDir: "docs"`を追加する。
-
-`hugo`でビルドが開始され、docsの配下に公開用のファイルが生成される。
