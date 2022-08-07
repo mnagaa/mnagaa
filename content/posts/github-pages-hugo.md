@@ -8,6 +8,23 @@ draft: false
 Github PagesとHugoでProfileページを作って公開する。
 
 
+## はじめ方
+
+```shell
+$ brew install hugo
+$ hugo new site $(siteName)
+```
+
+テンプレートとして`PaperMod`を使用する。
+
+```shell
+$ cd $(siteName)
+$ git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1                                                                                  ─╯
+$ git submodule update --init --recursive
+```
+
+config.ymlを更新する。
+
 
 ## 更新方法
 
