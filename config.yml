@@ -1,6 +1,6 @@
 baseURL: "https://mnagaa.github.io/"
 publishDir: "public"
-title: mnagaa
+title: 🌏 mnagaa
 paginate: 5
 theme: PaperMod
 
@@ -20,9 +20,9 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: mnagaa
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://avatars.githubusercontent.com/u/13862551?v=4"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -31,7 +31,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -46,31 +46,33 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
+    favicon: https://avatars.githubusercontent.com/u/13862551?v=4
+    favicon16x16: https://avatars.githubusercontent.com/u/13862551?v=4
+    favicon32x32: https://avatars.githubusercontent.com/u/13862551?v=4
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "mnagaa"
+    text: "🌏 mnagaa"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: mnagaa
+    subtitle: "Software Engineer / Research Scientist"
+    imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: mnagaa
     buttons:
+      - name: Profile
+        url: profile
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
@@ -128,13 +130,13 @@ menu:
       name: posts
       url: /posts/
       weight: 5
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
       weight: 20
     # - identifier: example
     #   name: example.org
