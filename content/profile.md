@@ -37,7 +37,7 @@ Masatoshi Nagahama, Software Engineer at Cyberagent, Inc.
 1. 2021.09- Megagon Labs, Inc., Contract Engineer.
 1. 2020.10-2022.03 SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
 1. 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
-1. 2019.10-2020.07 \**** Data Scientist: recommender system with NLP.
+1. 2019.10-2020.07 \**** Data Scientist (part-time): recommender system with NLP.
 
 ## Engineering Skills
 
