@@ -24,7 +24,9 @@ Masatoshi Nagahama, Software Engineer at Cyberagent, Inc.
 
 ### Journal Paper
 
-1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal restoration using nested deep algorithm unrolling," IEEE Trans. on Signal Processing, vol. 70, pp. 3296-3311, 2022.
+1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal restoration using nested deep algorithm unrolling," IEEE Trans. on Signal Processing, vol. 70, pp. 3296-3311, 2022. 
+[[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9796141)
+[[Project Page]](https://mnagaa.github.io/graph-signal-restoration-using-nested-deep-algorithm-unrolling/)
 
 ### Conference Paper
 
