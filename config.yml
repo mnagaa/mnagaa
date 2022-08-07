@@ -1,7 +1,7 @@
 baseURL: "https://mnagaa.github.io/"
 publishDir: "public"
 title: 🌏 mnagaa
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-PCYWS7SHJL
 
 minify:
   disableXML: true
@@ -17,14 +17,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: mnagaa
+  description: "mnagaa"
   keywords: [Blog, Portfolio, PaperMod]
   author: mnagaa
   # author: ["Me", "You"] # multiple authors
   images: ["https://avatars.githubusercontent.com/u/13862551?v=4"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light, auto
   disableThemeToggle: false
 
   ShowReadingTime: true
