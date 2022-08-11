@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: mnagaa
-    subtitle: "Software Engineer / Research Scientist"
+    subtitle: Masatoshi Nagahama, Software Engineer / Research Scientist
     imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
     imageWidth: 120
     imageHeight: 120
@@ -71,8 +71,6 @@ params:
         url: profile
       - name: Posts
         url: posts
-      # - name: Tags
-      #   url: tags
 
   # home-info mode
   homeInfoParams:
@@ -80,16 +78,14 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    # - name: twitter
-    #   url: "https://twitter.com/"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/mnagaa"
     - name: googlescholar
       url: "https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao"
     - name: linkedin
       url: "https://www.linkedin.com/in/masa-nagahama/"
+    - name: researchgate
+      url: "https://www.researchgate.net/profile/Masatoshi-Nagahama-2"
 
   analytics:
     google:
@@ -130,18 +126,6 @@ menu:
       name: posts
       url: /posts/
       weight: 5
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-      weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

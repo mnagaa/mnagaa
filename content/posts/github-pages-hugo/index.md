@@ -25,7 +25,7 @@ $ git submodule update --init --recursive
 
 config.ymlを更新する。
 
-# 公開方法
+## 公開方法
 
 `Repository home -> Settings -> Pages` からデプロイ方法にGithub Actionsを指定する。
 `config.yml`のbaseURLの下あたりに、`publishDir: "public"`を追加する。
