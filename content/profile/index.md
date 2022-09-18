@@ -7,7 +7,7 @@ summary: profile
 
 ## Short
 
-Masatoshi Nagahama (長濵 直智), Software Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 
 - Software Engineer (Data Engineer)
 - Research Scientist
@@ -25,13 +25,17 @@ Masatoshi Nagahama (長濵 直智), Software Engineer at CyberAgent, Inc.
 ### Journal Paper
 
 1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal restoration using nested deep algorithm unrolling," IEEE Transactions on Signal Processing, vol. 70, pp. 3296-3311, 2022.
-[[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9796141)
-[[Project Page]](https://mnagaa.github.io/graph-signal-restoration-using-nested-deep-algorithm-unrolling/)
+[[Project Page](https://mnagaa.github.io/graph-signal-restoration-using-nested-deep-algorithm-unrolling/)]
+[[IEEE Xplore](https://ieeexplore.ieee.org/document/9796141)]
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9796141)]
 
 ### Conference Paper
 
-1. **M. Nagahama** and Y. Tanaka, "Multimodal graph signal denoising via twofold graph smoothness regularization with deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2022, Singapore, May 2022.
+1. **M. Nagahama** and Y. Tanaka, "Multimodal graph signal denoising via twofold graph smoothness regularization with deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2022, Singapore, May 2022. 
+[[IEEE Xplore](https://ieeexplore.ieee.org/document/9747784)]
 1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal denoising using nested-structured deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2021, Virtual Conference, Jun. 2021.
+[[IEEE Xplore](https://ieeexplore.ieee.org/document/9414093)]
+
 
 ## Work Experience
 
