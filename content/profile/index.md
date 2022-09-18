@@ -14,7 +14,8 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
 
-[IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
+- [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
+- [ORCID](https://orcid.org/0000-0002-4646-3962)
 
 ## Research Interests
 
