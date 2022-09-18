@@ -14,6 +14,8 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
 
+[IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
+
 ## Research Interests
 
 - Graph Signal Processing: signal recovery, denoising, restoration
@@ -48,12 +50,19 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 ## Engineering Skills
 
 - Programming Languages
-  - Python, Go, JavaScript/TypeScript (with React, Vue)
+  - Python
+  - Go
+  - JavaScript/TypeScript (with React, Vue)
 - Operating Systems
-  - Mac, Linux
-- Databases
-  - MySQL, PostgreSQL, Snowflake
+  - Mac
+  - Linux
+- Databases / Data Warehouse
+  - MySQL
+  - PostgreSQL
+  - Snowflake
 - Cloud Infrastructure
   - AWS
 - Others
-  - Docker, Terraform
+  - Docker
+  - Terraform
+  - GitHub, GitHub Actions
