@@ -18,8 +18,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: mnagaa
-  description: "mnagaa"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "mnagaa, Masatoshi Nagahama, 長濱 直智"
+  keywords: ["Blog", "Portfolio", "PaperMod", "Masatoshi Nagahama", "長濱 直智"]
   author: mnagaa
   # author: ["Me", "You"] # multiple authors
   images: ["https://avatars.githubusercontent.com/u/13862551?v=4"]
