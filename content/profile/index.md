@@ -41,7 +41,6 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal denoising using nested-structured deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2021, Virtual Conference, Jun. 2021.
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/9414093)]
 
-
 ## Work Experience
 
 1. 2022.04- CyberAgent, Inc., Software Engineer.
@@ -50,21 +49,29 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 1. 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
 1. 2019.10-2020.07 \****, Data Scientist (part-time): recommender system with NLP.
 
+## Awards / Grants
+
+- 日本学生支援機構 大学院第一種奨学金 特に優れた業績による返還免除 (2020.4 - 2022.3)
+
 ## Engineering Skills
 
 - Programming Languages
   - Python
   - Go
   - JavaScript/TypeScript (with React, Vue)
+
 - Operating Systems
   - Mac
   - Linux
+
 - Databases / Data Warehouse
   - MySQL
   - PostgreSQL
   - Snowflake
+
 - Cloud Infrastructure
   - AWS
+
 - Others
   - Docker
   - Terraform
