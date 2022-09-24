@@ -41,7 +41,7 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   assets:
     disableHLJS: false # to disable highlight.js
@@ -102,7 +102,7 @@ params:
 
   editPost:
     URL: "https://github.com/mnagaa/mnagaa"
-    Text: "" # edit text
+    Text: "edit" # edit text
     appendFilePath: false # to append file path to Edit link
 
   # for search
