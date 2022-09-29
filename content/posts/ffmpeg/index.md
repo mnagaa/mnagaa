@@ -1,5 +1,5 @@
 ---
-title: "Makefile setup"
+title: "ffmpeg: 動画の圧縮・変換"
 date: 2022-09-29T05:49:51+09:00
 draft: false
 ---
