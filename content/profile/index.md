@@ -24,6 +24,7 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 - Graph Signal Processing: signal recovery, denoising, restoration
 - Mathematical Optimization: convex optimization, optimization algorithm
 - Image Processing: image coding, image compression
+- Machine Learning (Deep Learning)
 
 ## Publications
 
@@ -57,6 +58,7 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
 
 - Programming Languages
   - Python
+    - FastAPI, Flask, gensim, Pytorch, Scrapy
   - Go
   - JavaScript/TypeScript (with React, Vue)
 
