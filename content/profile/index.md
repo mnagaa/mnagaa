@@ -78,3 +78,5 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
   - Docker
   - Terraform
   - GitHub, GitHub Actions
+  - RabbitMQ
+  - zsh, bash
