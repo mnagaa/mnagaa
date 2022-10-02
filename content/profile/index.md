@@ -7,7 +7,7 @@ summary: profile
 
 ## Short
 
-Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 
 - Software Engineer (Data Engineer)
 - Research Scientist
