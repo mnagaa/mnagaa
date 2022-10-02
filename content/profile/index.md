@@ -80,3 +80,6 @@ Masatoshi Nagahama (長濵 直智), Data / Software Engineer at CyberAgent, Inc.
   - GitHub, GitHub Actions
   - RabbitMQ
   - zsh, bash
+
+## Others
+- Blog posts: https://zenn.dev/mnagaa
